@@ -1,0 +1,12 @@
+#root {
+  background-color: #0057A3;
+}
+
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.bg-navy {
+  background-color: #0057A3 !important;
+}
